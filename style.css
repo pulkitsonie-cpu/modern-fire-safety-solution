@@ -430,4 +430,10 @@ nav {
   z-index: 2;
 }
 
+.hero {
+  background: url("images/hero-fire.jpeg") no-repeat center center;
+  background-size: cover;
+  min-height: 90vh;
+  width: 100%;
+}
 
